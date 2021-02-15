@@ -1,7 +1,7 @@
 {
   "title": "Home",
-  "headline": "Build real-time editing into your site.",
-  "description": "Tina is an open-source site editing toolkit for React-based sites like Next.js & Gatsby",
+  "headline": "Ademola Onasoga.",
+  "description": "Simple edit and creating headless CMS funtion. Cool",
   "hero_video": "v1571425758/tina-hero-demo-v2",
   "hero_alt": "TinaCMS_video",
   "three_points": [
@@ -18,7 +18,7 @@
     {
       "_template": "selling_point",
       "main": "Extend & contribute",
-      "supporting": "This is not one-size-fits-all CMS. Tina is a grassroots open source JavaScript toolkit with a plugin-rich ecosystem. You can customize and extend the toolkit to suit your needs. Get and give help with a robust community of contributors."
+      "supporting": "A cool feature to have and makes it for even the project owners themselves to make this edit."
     }
   ],
   "setup": {
